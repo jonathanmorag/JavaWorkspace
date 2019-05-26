@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_191" class="java.beans.XMLDecoder">
+ <object class="Ex6.Level">
+  <void property="cx">
+   <int>300</int>
+  </void>
+  <void property="cy">
+   <int>40</int>
+  </void>
+  <void property="data">
+   <array class="[C" length="3">
+    <void index="0">
+     <array class="char" length="3">
+      <void index="0">
+       <char code="#1"/>
+      </void>
+      <void index="1">
+       <char code="#3"/>
+      </void>
+      <void index="2">
+       <char code="#1"/>
+      </void>
+     </array>
+    </void>
+    <void index="1">
+     <array class="char" length="3">
+      <void index="1">
+       <char code="#b"/>
+      </void>
+     </array>
+    </void>
+    <void index="2">
+     <array class="char" length="3">
+      <void index="0">
+       <char code="#e"/>
+      </void>
+      <void index="1">
+       <char code="#14"/>
+      </void>
+      <void index="2">
+       <char code="#1"/>
+      </void>
+     </array>
+    </void>
+   </array>
+  </void>
+ </object>
+</java>
